@@ -50,4 +50,4 @@ Yearly Fargate compute charges = $14913.024 + $3262.224 = $18175.248
 
 -- Configure Application against AWS RDS(Relational Database Service) Instance by mapping App Config's against Enviornment Variable of Database Instance ( will cost extra as per AWS Pricing Model )
 
--- Complete CI/CD pipeline for Build/Release/Deployment of Application Docker Container
+-- Complete CI/CD pipeline for Build/Release/Deployment of Application Docker Container using AWS CodeDeploy
