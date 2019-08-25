@@ -2,6 +2,7 @@
 
 1. **Briefly describe the conceptual approach you chose! What are the trade-offs?**
 Application is deployed in Ubuntu Docker Container using uWSGI Application Server. Strategy for Deployment is as below
+
 -- **Cloud Platform** - AWS
 -- **Container Orchestration** - AWS ECS ( Elastic Contianer Service )
 -- **Load balancer** - AWS ELB ( Elastic Load Balancer )
